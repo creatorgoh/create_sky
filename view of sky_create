@@ -1,0 +1,19 @@
+#!/bin/bash
+
+echo "This is an tool to help you in Coding"
+
+sleep 1
+
+echo "It only needs some attention"
+
+sleep 1
+
+echo "30+ Tools"
+
+sleep 1
+
+echo "All baked in"
+
+sleep 1
+
+echo "For free"
